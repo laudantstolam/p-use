@@ -1,0 +1,25 @@
+baseURL: ""
+languageCode: en-us
+title: Ashley's site
+theme: PaperMod
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+params:
+  ShowBreadCrubs: true
+  ShowReadingTime: true
+  homeInfoParams:
+    Title: "Laodant Stolam"
+    Content: Welcome stranger
+  socialIcons:
+    - name: facebook
+      url: "https://www.plurk.com/dama_0146"
+    - name: twitter
+      url: "https://twitter.com/Rachelle9406071"
