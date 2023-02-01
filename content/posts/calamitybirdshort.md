@@ -2,7 +2,7 @@
 title: "貓鳥新年短篇"
 date: 2023-01-27T15:06:40+08:00
 draft: false
-tags: ["niji EN", "calamitybird"]
+tags: ["niji EN", "calamitybird", "百合"]
 ---
 
 這個兩人間鮮少提及的習慣，源於某次又在 Enna 家多貪了幾杯才依依不捨回家的 Millie 臨走前乘著未消的酒意和微醺後沒來由的大膽一把抱住面前的女孩，隔著口罩倉促在臉頰旁輕啄而下的”kiss bye”。
