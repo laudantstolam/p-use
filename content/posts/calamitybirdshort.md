@@ -5,7 +5,7 @@ draft: false
 tags: ["niji EN", "calamitybird", "百合"]
 ---
 
-> [color=#858ed1]習慣性吻別
+> [color=#858ed1] 習慣性吻別
 
 這個兩人間鮮少提及的習慣，源於某次又在 Enna 家多貪了幾杯才依依不捨回家的 Millie 臨走前乘著未消的酒意和微醺後沒來由的大膽一把抱住面前的女孩，隔著口罩倉促在臉頰旁輕啄而下的”kiss bye”。
 
@@ -25,7 +25,7 @@ tags: ["niji EN", "calamitybird", "百合"]
 
 ---
 
-> [color=#febc87] Can't take my eyes off you
+> <color=#febc87> Can't take my eyes off you
 
 覺得 Enna 多才多藝又十分優秀並不是第一天了，只是再次看到對方近乎完美的 karaoke 現場還是會再次被她的歌聲所驚艷，流暢的高音、富有韻律感的 Rap、和空靈的哼鳴，總在一曲結束後令人流連弛往。
 
